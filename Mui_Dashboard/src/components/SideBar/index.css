@@ -1,0 +1,17 @@
+::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+html {
+  overflow: -moz-hidden; /* Firefox */
+  scrollbar-width: none; /* Firefox */
+}
+.css-17gb34u-MuiList-root {
+  overflow: auto; /* Allow scrolling */
+  scrollbar-width: none; /* Hide scrollbar in Firefox */
+}
+
+/* Hide scrollbar for Webkit browsers */
+.css-17gb34u-MuiList-root::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}

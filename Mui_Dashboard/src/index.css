@@ -1,0 +1,24 @@
+.css-4i4zqr-MuiToolbar-root 
+{
+  display: none !important;
+}
+.MuiToolbar-regular .css-1bmc26r-MuiToolbar-root 
+{
+  display: none !important;
+}
+.MuiBox-root .css-1rpa731 ,.MuiBox-root .css-23htwk
+{
+  margin-top: -10px;
+}
+.MuiBox-root .css-23htwk
+{
+  margin-top: -60px;
+}
+ .css-1bmc26r-MuiToolbar-root
+{
+  display: none;
+}
+body
+{
+  font-size: 12px !important;
+}
